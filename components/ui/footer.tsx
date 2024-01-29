@@ -27,8 +27,12 @@ export default function Footer() {
             <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
 
               {/* 2nd block */}
+
+
+              
               <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Products</h6>
+                <div className='text-sm'>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and </div>
                 <ul>
                   <li className="mb-1">
                     <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Web Studio</Link>
